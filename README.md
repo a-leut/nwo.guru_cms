@@ -1,2 +1,2 @@
 # nwo.guru_cms
-cms system (static site-ish) for nwo.guru
+Homepage and CMS system and for [nwo.guru](http://nwo.guru).
